@@ -1,7 +1,7 @@
-package come.ithar.malik.bootstrap;
+package com.ithar.malik.bootstrap;
 
-import come.ithar.malik.domain.Product;
-import come.ithar.malik.repositories.ProductRepository;
+import com.ithar.malik.domain.Product;
+import com.ithar.malik.repositories.ProductRepository;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

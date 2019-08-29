@@ -1,4 +1,4 @@
-package come.ithar.malik;
+package com.ithar.malik;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

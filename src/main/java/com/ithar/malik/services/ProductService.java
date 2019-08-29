@@ -1,7 +1,7 @@
-package come.ithar.malik.services;
+package com.ithar.malik.services;
 
 
-import come.ithar.malik.domain.Product;
+import com.ithar.malik.domain.Product;
 
 public interface ProductService {
     Iterable<Product> listAllProducts();

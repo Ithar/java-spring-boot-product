@@ -1,4 +1,4 @@
-package come.ithar.malik.domain;
+package com.ithar.malik.domain;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

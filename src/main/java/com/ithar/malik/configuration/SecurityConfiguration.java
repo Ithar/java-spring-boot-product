@@ -1,4 +1,4 @@
-package come.ithar.malik.configuration;
+package com.ithar.malik.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

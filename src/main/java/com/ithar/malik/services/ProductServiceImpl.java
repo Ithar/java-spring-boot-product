@@ -1,7 +1,7 @@
-package come.ithar.malik.services;
+package com.ithar.malik.services;
 
-import come.ithar.malik.domain.Product;
-import come.ithar.malik.repositories.ProductRepository;
+import com.ithar.malik.domain.Product;
+import com.ithar.malik.repositories.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

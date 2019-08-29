@@ -1,4 +1,4 @@
-package come.ithar.malik.controllers;
+package com.ithar.malik.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

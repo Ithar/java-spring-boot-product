@@ -1,7 +1,7 @@
-package come.ithar.malik.controllers;
+package com.ithar.malik.controllers;
 
-import come.ithar.malik.domain.Product;
-import come.ithar.malik.services.ProductService;
+import com.ithar.malik.domain.Product;
+import com.ithar.malik.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

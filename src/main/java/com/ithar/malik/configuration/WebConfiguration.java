@@ -1,4 +1,4 @@
-package come.ithar.malik.configuration;
+package com.ithar.malik.configuration;
 
 import org.h2.server.web.WebServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
