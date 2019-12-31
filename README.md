@@ -23,6 +23,7 @@ Spring Boot
 ## Application URL
 http://localhost:8080/
 http://localhost:8080/products
+http://localhost:8080/product/new
 
 ## Application GIT branches
 - master
