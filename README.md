@@ -13,8 +13,8 @@ Stack  | version |
 *Frontend* | Thymeleaf 
 *DB* | h2-database
 *Server* | n/a
-*Build Tool* | n/a
-*CI* | n/a
+*Build Tool* | Maven
+*CI* | Jenkins on (AWS EC2)
 *Code Coverage* | n/a
 
 ## Application Run
