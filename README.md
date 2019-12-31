@@ -20,7 +20,12 @@ Stack  | version |
 ## Application Run
 Spring Boot 
 
+## Application URL
+http://localhost:8080/
+http://localhost:8080/products
+
 ## Application Tests
 Total Tests: 1 (PASS)
 
 ## Further enhancements 
+- 
