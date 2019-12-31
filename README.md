@@ -24,8 +24,8 @@ Spring Boot
 http://localhost:8080/
 http://localhost:8080/products
 
-## Application Tests
-Total Tests: 1 (PASS)
+## Application GIT branches
+- master
 
 ## Further enhancements 
 - 
